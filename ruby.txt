@@ -1,1 +1,3 @@
 
+https://stackoverflow.com/questions/10940736/rbenv-not-changing-ruby-version
+https://antran.app/2021/m1_mac_part2/
